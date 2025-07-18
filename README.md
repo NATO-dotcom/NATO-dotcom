@@ -79,22 +79,6 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFF&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NATO-dotcom&theme=radical&hide_border=false&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATO-dotcom&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00D9FF&text_color=FFF&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
 ## 📈 Coding Progress & Activity
 
 <div align="center">
@@ -124,7 +108,8 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 
 ---
 
-## ⏱️ Weekly Coding Stats
+## ⏱️📊 GitHub_Weekly Coding  Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFF&bg_color=0D1117" alt="Weekly GitHub Stats" />
