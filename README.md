@@ -116,9 +116,10 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NATO-dotcom&theme=radical&hide_border=false&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Coding Streak" />
-</div>
 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NATO-dotcom&theme=radical&background=0D1117&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak" /> 
+  
+</div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NATO-dotcom&theme=radical&utcOffset=3" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NATO-dotcom&theme=radical" alt="Stats" />
