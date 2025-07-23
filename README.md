@@ -103,9 +103,8 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NATO-dotcom&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
-
 ---
 
 ## ⏱️📊 GitHub_Weekly Coding  Stats
