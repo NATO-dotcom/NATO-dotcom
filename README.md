@@ -103,9 +103,9 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NATO-dotcom&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
 </div>
----
+
 
 ## ⏱️📊 GitHub_Weekly Coding  Stats
 
@@ -140,20 +140,6 @@ Currently building my skills in Machine Learning and AI, plus both mobile & web 
 - **Q2**: Full-stack web development with modern frameworks  
 - **Q3**: Mobile app development & deployment
 - **Q4**: AI/ML project portfolio & internship applications
-
-<div align="center">
-  
-  **Progress Tracking:**
-  
-  🧠 **Machine Learning**: ████████░░ 80%
-  
-  🌐 **Web Development**: ██████░░░░ 60%
-  
-  📱 **Mobile Dev**: ████░░░░░░ 40%
-  
-  📊 **Data Science**: ████████░░ 85%
-  
-</div>
 
 ---
 
