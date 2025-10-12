@@ -20,16 +20,7 @@ Coffee-fueled coder on a mission to make machines smarter! ☕💻
 - 🛠️ Building apps that actually work
 - 📱 Creating mobile experiences users love
 - ☁️ Deploying scalable cloud solutions
-
----
-
-## 🚀 2025 Goals
-
-- 🤖 Deploy 3 ML-powered applications
-- 🌍 Contribute to open-source
-- 💼 Land a data science/AI internship
-- 📱 Launch an app on Play Store
-
+  
 ---
 
 ## 💻 Tech Stack
