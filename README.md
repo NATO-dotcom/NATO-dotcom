@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-Coffee-fueled coder on a mission to make machines smarter! ☕💻
+Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
 **What drives me:**
 - 🧠 Teaching computers to think (kinda)
@@ -147,7 +147,6 @@ Coffee-fueled coder on a mission to make machines smarter! ☕💻
 </div>
 
 > **If data is the new oil, then I'm building the refinery! 🔧**
-> 
 > Student today — machine whisperer tomorrow 🤖✨
 
 ---
