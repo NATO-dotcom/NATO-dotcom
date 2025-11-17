@@ -14,7 +14,7 @@
 
 Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
-**What drives me:**
+**What motivates me:**
 - 🧠 Teaching computers to think (kinda)
 - 📊 Making data tell stories
 - 🛠️ Building apps that actually work
