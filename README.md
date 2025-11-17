@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 Profile
 
 Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
