@@ -15,7 +15,7 @@
 Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
 **What motivates me:**
-- 🧠 Teaching computers to think (kinda)
+- 🧠 Teaching computers to think 
 - 📊 Making data tell stories
 - 🛠️ Building apps that actually work
 - 📱 Creating mobile experiences users love
@@ -147,7 +147,7 @@ Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 </div>
 
 > **If data is the new oil, then I'm building the refinery! 🔧**
-> Student today — machine whisperer tomorrow 🤖✨
+> Student today —> machine whisperer tomorrow 🤖✨
 
 ---
 
