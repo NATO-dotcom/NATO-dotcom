@@ -145,7 +145,6 @@ Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 </div>
 
 > **If data is the new oil, then I'm building the refinery! 🔧**
-> Student today —> machine whisperer tomorrow 🤖✨
 
 ---
 
