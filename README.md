@@ -1,4 +1,4 @@
-# Hi there!👋 I'm Dinar Nato
+# Hi there! 👋 I'm Dinar Nato
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
@@ -10,27 +10,32 @@
 
 ---
 
-## 💫 About me
+## 💫 About Me
+
+<div align="center">
 
 Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
-**What motivates me:**
+**What Motivates Me:**
 - 🧠 Teaching computers to think 
 - 📊 Making data tell stories
 - 🛠️ Building apps that actually work
 - 📱 Creating mobile experiences users love
 - ☁️ Deploying scalable cloud solutions
-  
+
+</div>
+
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 
 ### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,6 +49,7 @@ Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
@@ -73,6 +79,8 @@ Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
 
 ---
 
@@ -142,9 +150,10 @@ Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  
+  > **If data is the new oil, then I'm building the refinery! 🔧**
+  
 </div>
-
-> **If data is the new oil, then I'm building the refinery! 🔧**
 
 ---
 
