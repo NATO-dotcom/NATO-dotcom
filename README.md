@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Dinar Nato
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato" alt="Name Animation" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
@@ -10,18 +12,17 @@
 
 ---
 
-## 💫 About Me
-
 <div align="center">
 
-Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻
+## 💫 About Me
+
+**Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻**
 
 **What Motivates Me:**
-- 🧠 Teaching computers to think 
-- 📊 Making data tell stories
-- 🛠️ Building apps that actually work
-- 📱 Creating mobile experiences users love
-- ☁️ Deploying scalable cloud solutions
+
+🧠 Teaching computers to think | 📊 Making data tell stories | 🛠️ Building apps that actually work
+
+📱 Creating mobile experiences users love | ☁️ Deploying scalable cloud solutions
 
 </div>
 
