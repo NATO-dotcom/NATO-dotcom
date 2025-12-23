@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato" alt="Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=999999&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato&repeat=false" alt="Name Animation" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,13 +16,37 @@
 
 ## 💫 About Me
 
-**Coffee-fueled TechMuse on a mission to make machines smarter! ☕💻**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**What Motivates Me:**
+```javascript
+const dinarNato = {
+    pronouns: "She/Her",
+    location: "Nairobi, Kenya 🇰🇪",
+    currentFocus: ["Machine Learning", "Full-Stack Development", "Mobile Apps"],
+    funFact: "I turn coffee into code and data into insights! ☕💻",
+    
+    lifePhilosophy: "If data is the new oil, then I'm building the refinery! 🔧",
+    
+    dailyRoutine: {
+        morning: "☕ Coffee + Coding",
+        afternoon: "🤖 Training Models",
+        evening: "📱 Building Apps",
+        night: "🌙 Debugging Dreams"
+    },
+    
+    currentlyLearning: ["Advanced ML Algorithms", "Cloud Architecture", "Django"],
+    askMeAbout: ["Python", "Machine Learning", "React", "Android Development"],
+    
+    goals2025: [
+        "🎯 Contribute to 10+ Open Source Projects",
+        "🚀 Deploy 5 Production AI Applications",
+        "📚 Master Cloud Architecture",
+        "🤝 Collaborate with Global Developers"
+    ]
+};
+```
 
-🧠 Teaching computers to think | 📊 Making data tell stories | 🛠️ Building apps that actually work
-
-📱 Creating mobile experiences users love | ☁️ Deploying scalable cloud solutions
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -152,7 +176,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
   
-  > **If data is the new oil, then I'm building the refinery! 🔧**
+  > **"Debugging is like being a detective in a crime movie where you're also the murderer!" 🔍**
   
 </div>
 
@@ -167,7 +191,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
   
-  **Thanks for stopping by! Let's build something amazing! 🚀**
+  **Thanks for stopping by! Let's build something amazing together! 🚀**
   
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 </div>
