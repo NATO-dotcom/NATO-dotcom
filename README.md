@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=999999&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato&repeat=false" alt="Name Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NATO&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="NATO Header"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=999999&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato&repeat=false" alt="Name Animation" />
 </div>
 
 <div align="center">
@@ -7,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0;Coffee+%2B+Code+%3D+Magic+%E2%98%85" alt="Typing SVG" />
 </div>
 
 ---
