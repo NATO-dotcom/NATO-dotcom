@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NATO&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="NATO Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="Dinar Nato Header"/>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ const dinarNato = {
     },
     
     currentlyLearning: ["Advanced ML Algorithms", "Cloud Architecture", "Django"],
-    askMeAbout: ["Python", "Machine Learning", "React", "Android Development"]
+    askMeAbout: ["Python", "Machine Learning", "Data Analysis", "Android Development"]
 };
 ```
 
@@ -106,14 +106,14 @@ const dinarNato = {
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATO-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATO-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NATO-dotcom&theme=radical&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak" /> 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NATO-dotcom&theme=tokyonight&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak" /> 
+</p>
 
 ---
 
@@ -166,16 +166,16 @@ impact: "Every line of code is a step towards innovation ✨"
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NATO-dotcom&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6&row=1" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NATO-dotcom&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Experience" />
+</p>
 
 ---
 
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NATO-dotcom&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=NATO-dotcom&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
 ---
