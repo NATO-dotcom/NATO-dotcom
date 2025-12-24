@@ -3,15 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=999999&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato&repeat=false" alt="Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Nato;Data+Science+Student+%F0%9F%93%8A;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%A7%A0;Coffee+%2B+Code+%3D+Magic+%E2%98%85" alt="Typing SVG" />
 </div>
 
 ---
@@ -198,4 +194,8 @@ const dinarNato = {
   **Thanks for stopping by! Let's build something amazing together! 🚀**
   
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
 </div>
