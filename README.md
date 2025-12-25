@@ -117,6 +117,21 @@ const dinarNato = {
 
 ---
 
+<h2 align="center">🏆 Notable Achievements</h2>
+
+<div align="center">
+
+| 🎯 Milestone | 📊 Status |
+|-------------|-----------|
+| **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&labelColor=0D1117&style=for-the-badge&label=Repos&query=public_repos&url=https://api.github.com/users/NATO-dotcom) |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/NATO-dotcom?style=for-the-badge&color=00D9FF&labelColor=0D1117) |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=NATO-dotcom&color=00D9FF&style=for-the-badge) |
+| **Years on GitHub** | ![Years](https://img.shields.io/badge/2023-Present-00D9FF?style=for-the-badge&labelColor=0D1117) |
+
+</div>
+
+---
+
 <h2 align="center">🎯 2026 Goals & Vision</h2>
 
 <div align="center">
