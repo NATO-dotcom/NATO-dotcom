@@ -187,7 +187,7 @@ impact: "Every line of code is a step towards innovation ✨"
 
 ---
 
-<h2 align="center">🔝 Top Contributed Repositories</h2>
+<h2 align="center">🔝 Top Repositories</h2>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=NATO-dotcom&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
