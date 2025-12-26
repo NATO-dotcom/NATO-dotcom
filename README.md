@@ -20,7 +20,7 @@
 const dinarNato = {
     pronouns: "She/Her",
     location: "Nairobi, Kenya 🇰🇪",
-    currentFocus: ["Machine Learning", "Full-Stack Development", "Mobile Apps"],
+    currentFocus: ["Machine Learning", "Full-Stack Development", "Mobile development"],
     funFact: "I turn coffee into code and data into insights! ☕💻",
     
     lifePhilosophy: "If data is the new oil, then I'm building the refinery! 🔧",
