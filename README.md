@@ -159,7 +159,7 @@ learning_path:
     topics: [Deep Learning, Neural Networks, Computer Vision]
     goal: "Create intelligent systems that learn and adapt"
     
-  backend_expansion:
+  backend_development:
     focus: "☕ Java & Enterprise Development"
     technologies: [Spring Boot, Microservices]
     goal: "Build robust, enterprise-grade applications"
