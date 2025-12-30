@@ -32,8 +32,8 @@ const dinarNato = {
         night: "🌙 Debugging Dreams"
     },
     
-    currentlyLearning: ["Advanced ML Algorithms", "Cloud Architecture", "Django"],
-    askMeAbout: ["Python", "Machine Learning", "Data Analysis", "Android Development"]
+    currentlyLearning: ["Advanced ML Algorithms", "Cloud Architecture", "Django","Flask"],
+    askMeAbout: ["Python", "Machine Learning", "Data Analysis", "Android Development",]
 };
 ```
 
