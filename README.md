@@ -195,7 +195,7 @@ impact: "Every line of code is a step towards innovation ✨"
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Let's connect</h2>
 
 <div align="center">
   
