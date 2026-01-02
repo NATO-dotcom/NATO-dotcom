@@ -135,7 +135,7 @@ const dinarNato = {
 <div align="center">
 
 ```yaml
-mission: "Building scalable, intelligent, real-world systems 🚀"
+mission: "Building scalable, intelligent, real-world systems that bring an impact 🚀"
 
 learning_path:
   cloud_mastery:
