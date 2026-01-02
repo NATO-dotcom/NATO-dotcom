@@ -104,30 +104,24 @@ const dinarNato = {
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NATO-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATO-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NATO-dotcom&theme=tokyonight&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak" /> 
-</p>
-
----
-
-<h2 align="center">🏆 Notable Achievements</h2>
+<h2 align="center">📊 GitHub Overview</h2>
 
 <div align="center">
 
-| 🎯 Milestone | 📊 Status |
-|-------------|-----------|
-| **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&labelColor=0D1117&style=for-the-badge&label=Repos&query=public_repos&url=https://api.github.com/users/NATO-dotcom) |
-| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/NATO-dotcom?style=for-the-badge&color=00D9FF&labelColor=0D1117) |
-| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=NATO-dotcom&color=00D9FF&style=for-the-badge) |
-| **Years on GitHub** | ![Years](https://img.shields.io/badge/2023-Present-00D9FF?style=for-the-badge&labelColor=0D1117) |
+![Total Repos](https://img.shields.io/badge/Total_Repos-Check_Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Active Projects](https://img.shields.io/badge/Active_Projects-View_Below-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Primary Language](https://img.shields.io/badge/Primary_Language-Python-00D9FF?style=for-the-badge&logo=python&logoColor=white)
 
+**Explore my repositories to see what I'm building! 👇**
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATO-dotcom&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ---
@@ -167,30 +161,6 @@ learning_path:
 impact: "Every line of code is a step towards innovation ✨"
 ```
 
-</div>
-
----
-
-<h2 align="center">📊 Activity Overview</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATO-dotcom&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NATO-dotcom&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Experience" />
-</p>
-
----
-
-<h2 align="center">🔝 Top Repositories</h2>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NATO-dotcom&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
 ---
