@@ -112,7 +112,7 @@ const dinarNato = {
 ![Active Projects](https://img.shields.io/badge/Active_Projects-View_Below-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 ![Primary Language](https://img.shields.io/badge/Primary_Language-Python-00D9FF?style=for-the-badge&logo=python&logoColor=white)
 
-**Explore my repositories to see what I'm building! 👇**
+**Feel free to explore my repositories to see what I'm building! 👇**
 
 </div>
 
