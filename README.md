@@ -118,7 +118,7 @@ const dinarNato = {
 
 ---
 
-<h2 align="center">📈 Contributions Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATO-dotcom&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
