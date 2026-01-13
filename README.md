@@ -150,7 +150,7 @@ learning_path:
     
   ai_deep_dive:
     focus: "🧠 Advanced Machine Learning"
-    topics: [Deep Learning, Neural Networks, Computer Vision]
+    topics: [Deep Learning, Neural Networks, Computer Vision,Tensor Flow]
     goal: "Create intelligent systems that learn and adapt"
     
   backend_development:
