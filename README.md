@@ -27,7 +27,7 @@ const dinarNato = {
     
     dailyRoutine: {
         morning: "☕ Coffee + Coding",
-        afternoon: "🤖 Training Models",
+        afternoon: "🤖 Training Intelligent Models",
         evening: "📱 Building Apps",
         night: "🌙 Debugging Dreams"
     },
