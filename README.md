@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">💫 About  </h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
 
@@ -134,7 +134,7 @@ const dinarNato = {
 <div align="center">
 
 ```yaml
-mission: "Building scalable, intelligent, real-world systems that bring an impact 🚀"
+mission: "Building scalable, intelligent, real-world systems that bring an impact "
 
 learning_path:
   cloud_mastery:
@@ -157,7 +157,7 @@ learning_path:
     technologies: [Spring Boot, Microservices]
     goal: "Build robust, enterprise-grade applications"
 
-impact: "Every line of code is a step towards innovation ✨"
+impact: "Every line of code is a step towards innovation "
 ```
 
 </div>
