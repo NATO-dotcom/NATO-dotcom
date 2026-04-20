@@ -17,8 +17,8 @@ const dinarNato = {
     currentFocus:   ["Machine Learning", "Full-Stack Development", "Mobile Development"],
     learning:       ["Advanced ML Algorithms", "Cloud Architecture", "Django", "Flask"],
     askMeAbout:     ["Python", "Machine Learning", "Data Analysis", "Android Development"],
-    funFact:        "I turn coffee into code and data into insights.",
-    philosophy:     "If data is the new oil, then I'm building the refinery."
+    funFact:        ["I turn coffee into code and data into insights."],
+    philosophy:     ["If data is the new oil, then I'm building the refinery."]
 };
 ```
 
