@@ -233,7 +233,7 @@ focus_areas:
 
 ---
 
-## Connect
+## Let's Connect
 
 <div align="center">
 
