@@ -12,7 +12,7 @@
 
 ```javascript
 const dinarNato = {
-    location:       "Nairobi, Kenya"],
+    location:       ["Nairobi, Kenya"],
     currentFocus:   ["Machine Learning", "Full-Stack Development", "Mobile Development"],
     learning:       ["Advanced ML Algorithms", "Cloud Architecture", "Django", "Flask"],
     askMeAbout:     ["Python", "Machine Learning", "Data Analysis", "Android Development"],
@@ -169,7 +169,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Toolkit
+### Techstack
 <table>
   <tr>
     <td align="center" width="96">
