@@ -12,7 +12,6 @@
 
 ```javascript
 const dinarNato = {
-    pronouns:       "She/Her",
     location:       "Nairobi, Kenya",
     currentFocus:   ["Machine Learning", "Full-Stack Development", "Mobile Development"],
     learning:       ["Advanced ML Algorithms", "Cloud Architecture", "Django", "Flask"],
