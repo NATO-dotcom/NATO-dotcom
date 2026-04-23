@@ -99,7 +99,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Mobile
+### Mobile Development
 <table>
   <tr>
     <td align="center" width="96">
