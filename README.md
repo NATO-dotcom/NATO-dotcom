@@ -23,7 +23,7 @@ const dinarNato = {
 
 ---
 
-## Tech-Stack
+## Tech Stack
 
 ### Frontend Development
 <table>
