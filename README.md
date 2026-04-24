@@ -169,7 +169,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Techstack
+### TechStack
 <table>
   <tr>
     <td align="center" width="96">
