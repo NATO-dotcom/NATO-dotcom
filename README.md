@@ -81,7 +81,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Backend Development
+### Backend-Development
 <table>
   <tr>
     <td align="center" width="96">
@@ -99,7 +99,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Mobile Development
+### Mobile-Development
 <table>
   <tr>
     <td align="center" width="96">
