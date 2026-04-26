@@ -169,7 +169,7 @@ const dinarNato = {
   </tr>
 </table>
 
-### Tech-Stack
+### Toolkit
 <table>
   <tr>
     <td align="center" width="96">
