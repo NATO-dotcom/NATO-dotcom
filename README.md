@@ -1,4 +1,4 @@
-<div align="center">
+I'm<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="Dinar Nato Header"/>
 </div>
 
