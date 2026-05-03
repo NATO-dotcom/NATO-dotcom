@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="Dinar Nato Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="Dinah Nato Header"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## About Me
 
 ```javascript
-const dinarNato = {
+const dinahNato = {
     location:       ["Nairobi, Kenya"],
     currentFocus:   ["Machine Learning", "Full-Stack Development", "Mobile Development"],
     learning:       ["Advanced ML Algorithms", "Cloud Architecture", "Django", "Flask"],
