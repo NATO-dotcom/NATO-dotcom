@@ -209,7 +209,7 @@ const dinahNato = {
 
 ---
 
-## Contribution Activity
+## Contribution-Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATO-dotcom&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
