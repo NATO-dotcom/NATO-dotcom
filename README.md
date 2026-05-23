@@ -169,7 +169,7 @@ const dinahNato = {
   </tr>
 </table>
 
-### Tool-kit
+### Toolkit
 <table>
   <tr>
     <td align="center" width="96">
