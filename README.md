@@ -23,7 +23,7 @@ const dinahNato = {
 
 ---
 
-## TechStack
+## Tech Stack
 
 ### Frontend-Development
 <table>
