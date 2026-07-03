@@ -8,7 +8,7 @@
 
 ---
 
-## About
+## About Me
 
 ```javascript
 const dinahNato = {
