@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;Full-Stack+%26+Mobile+Developer;Turning+data+into+insights" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;MLOps-Engineer+%26+Mobile+Data+Engineer;" alt="Typing Animation" />
 </div>
 
 ---
@@ -84,10 +84,10 @@ const dinahNato = {
 ### Backend-Development
 <table>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
       <br><sub><b>Django</b></sub>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
       <br><sub><b>Flask</b></sub>
@@ -150,10 +150,10 @@ const dinahNato = {
 ### Databases
 <table>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
       <br><sub><b>MongoDB</b></sub>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
       <br><sub><b>PostgreSQL</b></sub>
@@ -201,22 +201,6 @@ const dinahNato = {
 
 ---
 
-## GitHub-Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NATO-dotcom&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## Contribution-Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NATO-dotcom&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 2026 Goals
 
 ```yaml
@@ -226,7 +210,7 @@ focus_areas:
   - Cloud Architecture (AWS · Azure · GCP)
   - Python Frameworks (Flask · FastAPI)
   - Advanced ML (Deep Learning · Computer Vision · Neural Networks)
-  - Data Structures & Algorithms
+  - MLOps
   - Data Engineering (Building Data Pipelines)
 ```
 
