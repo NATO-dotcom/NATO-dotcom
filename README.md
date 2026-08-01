@@ -36,14 +36,14 @@ const dinahNato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
       <br><sub><b>CSS3</b></sub>
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
       <br><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
+     <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
       <br><sub><b>React</b></sub>
-    </td>  -->
+    </td>  - -->
   </tr>
 </table>
 
