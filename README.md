@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Machine+Learning+%26+AI+Enthusiast;MLOps+Engineer;Mobile+%26+Data+Engineer;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Engineering+Enthusiast;MLOps+Engineer;Machine+Learning+%26+AI+Enthusiast;Mobile+%26+Backend+Engineer;" alt="Typing Animation" />
 </div>
 
 ---
@@ -13,9 +13,9 @@
 ```javascript
 const dinahNato = {
     location:       ["Nairobi, Kenya"],
-    currentFocus:   ["Machine Learning", "Full-Stack Development", "Mobile Development"],
-    learning:       ["Advanced ML Algorithms", "Cloud Architecture", "Django", "Flask"],
-    askMeAbout:     ["Python", "Machine Learning", "Data Analysis", "Android Development"],
+    currentFocus:   ["Data Engineering", "MLOps"],
+    learning:       ["Data Pipelines", "Apache Airflow / Spark / Kafka", "Cloud Architecture", "MLOps Tooling"],
+    askMeAbout:     ["Python", "Data Engineering", "MLOps", "Machine Learning", "Android Development"],
     funFact:        ["I turn coffee into code and data into insights."],
     philosophy:     ["If data is the new oil, then I'm building the refinery."]
 };
@@ -25,81 +25,7 @@ const dinahNato = {
 
 ## Tech Stack
 
-### Frontend-Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-     <!-- <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br><sub><b>React</b></sub>
-    </td>  - -->
-  </tr>
-</table>
-
-### Machine Learning & AI
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-      <br><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-      <br><sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/>
-      <br><sub><b>scikit-learn</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      <br><sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      <br><sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-      <br><sub><b>Jupyter</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Backend-Development
-<table>
-  <tr>
-    <!-- <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
-      <br><sub><b>Django</b></sub>
-    </td> -->
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
-      <br><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-      <br><sub><b>FastAPI</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Mobile-Development
+### Mobile Development
 <table>
   <tr>
     <td align="center" width="96">
@@ -118,12 +44,70 @@ const dinahNato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
       <br><sub><b>Flutter</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart"/>
+      <br><sub><b>Dart</b></sub>
+    </td>
   </tr>
 </table>
 
-### Cloud & DevOps
+### Backend Engineering
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
+      <br><sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+      <br><sub><b>SQLite</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Data Engineering
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br><sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow"/>
+      <br><sub><b>Airflow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark"/>
+      <br><sub><b>Spark</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Apache Kafka"/>
+      <br><sub><b>Kafka</b></sub>
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>
       <br><sub><b>AWS</b></sub>
@@ -136,35 +120,43 @@ const dinahNato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
       <br><sub><b>Azure</b></sub>
     </td>
+  </tr>
+</table>
+
+### MLOps Engineering
+<table>
+  <tr>
+    <!-- <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
+      <br><sub><b>PyTorch</b></sub>
+    </td> -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/>
+      <br><sub><b>scikit-learn</b></sub>
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
       <br><sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
-      <br><sub><b>Firebase</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Databases
-<table>
-  <tr>
     <!-- <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-      <br><sub><b>MongoDB</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes"/>
+      <br><sub><b>Kubernetes</b></sub>
     </td> -->
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      <br><sub><b>PostgreSQL</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
+      <br><sub><b>Terraform</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-      <br><sub><b>MySQL</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions"/>
+      <br><sub><b>GitHub Actions</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
-      <br><sub><b>SQLite</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+      <br><sub><b>Jupyter</b></sub>
     </td>
   </tr>
 </table>
@@ -207,11 +199,11 @@ const dinahNato = {
 mission: "Building scalable, intelligent systems that make a real-world impact"
 
 focus_areas:
+  - Data Engineering (Building Data Pipelines)
+  - MLOps (Model Deployment · Monitoring · Automation)
   - Cloud Architecture (AWS · Azure · GCP)
   - Python Frameworks (Flask · FastAPI)
   - Advanced ML (Deep Learning · Computer Vision · Neural Networks)
-  - MLOps
-  - Data Engineering (Building Data Pipelines)
 ```
 
 ---
@@ -220,9 +212,9 @@ focus_areas:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinah-nato-338a43328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinar-nato-338a43328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnaliaka365@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/NATO-dotcom/My_portfolio.git)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dinah-nato.vercel.app)
 
 </div>
 
