@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Engineering+Enthusiast;MLOps+Engineer;Machine+Learning+%26+AI+Enthusiast;Mobile+%26+Backend+Engineer;" alt="Typing Animation" />
+
+### Software & Data Engineer
+
 </div>
 
 ---
@@ -36,10 +38,10 @@ const dinahNato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android"/>
       <br><sub><b>Android</b></sub>
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native"/>
       <br><sub><b>React Native</b></sub>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
       <br><sub><b>Flutter</b></sub>
