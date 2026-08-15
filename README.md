@@ -12,15 +12,15 @@
 
 ## About Me
 
-```javascript
-const dinahNato = {
-    location:       ["Nairobi, Kenya"],
-    currentFocus:   ["Data Engineering", "MLOps"],
-    learning:       ["Data Pipelines", "Apache Airflow / Spark / Kafka", "Cloud Architecture", "MLOps Tooling"],
-    askMeAbout:     ["Python", "Data Engineering", "MLOps", "Machine Learning", "Android Development"],
-    funFact:        ["I turn coffee into code and data into insights."],
-    philosophy:     ["If data is the new oil, then I'm building the refinery."]
-};
+```python
+dinar_nato = {
+    "location":      ["Nairobi, Kenya"],
+    "current_focus": ["Data Engineering", "MLOps"],
+    "learning":      ["Data Pipelines", "Apache Airflow / Spark / Kafka", "Cloud Architecture", "MLOps Tooling"],
+    "ask_me_about":  ["Python", "Data Engineering", "MLOps", "Machine Learning", "Android Development"],
+    "fun_fact":      ["I turn coffee into code and data into insights."],
+    "philosophy":    ["If data is the new oil, then I'm building the refinery."],
+}
 ```
 
 ---
@@ -66,6 +66,26 @@ const dinahNato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/>
       <br><sub><b>Azure</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kestra.svg" width="48" height="48" alt="Kestra"/>
+      <br><sub><b>Kestra</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform"/>
+      <br><sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/minio" width="48" height="48" alt="MinIO"/>
+      <br><sub><b>MinIO</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlebigquery" width="48" height="48" alt="Google BigQuery"/>
+      <br><sub><b>BigQuery</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/dbt-FE6703?style=flat-square&logoColor=white" alt="dbt"/>
+      <br><sub><b>dbt</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -103,6 +123,26 @@ const dinahNato = {
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
       <br><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/mlflow" width="48" height="48" alt="MLflow"/>
+      <br><sub><b>MLflow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana"/>
+      <br><sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Scikit--Surprise-F7931E?style=flat-square&logoColor=white" alt="Scikit-Surprise"/>
+      <br><sub><b>Scikit-Surprise</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br><sub><b>NumPy</b></sub>
     </td>
   </tr>
 </table>
