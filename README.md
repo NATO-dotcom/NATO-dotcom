@@ -34,14 +34,14 @@ dinar_nato = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
       <br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
       <br><sub><b>Pandas</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
       <br><sub><b>NumPy</b></sub>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow"/>
       <br><sub><b>Airflow</b></sub>
