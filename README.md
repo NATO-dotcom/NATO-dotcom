@@ -13,7 +13,7 @@
 ## About Me
 
 ```python
-dinah_nato = {
+dinar_nato = {
     "location":      ["Nairobi, Kenya"],
     "current_focus": ["Data Engineering", "MLOps"],
     "learning":      ["Data Pipelines", "Apache Airflow / Spark / Kafka", "Cloud Architecture", "MLOps Tooling"],
