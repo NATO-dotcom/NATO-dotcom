@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## About 
 
 ```python
 dinar_nato = {
