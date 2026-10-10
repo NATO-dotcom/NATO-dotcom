@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00D9FF" alt="Dinah Nato Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=180&section=header&text=Dinar%20Nato&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=CCFBF1" alt="Dinar Nato Header"/>
 </div>
 
 <div align="center">
@@ -51,6 +51,10 @@ dinar_nato = {
       <br><sub><b>Spark</b></sub>
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks"/>
+      <br><sub><b>Databricks</b></sub>
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Apache Kafka"/>
       <br><sub><b>Kafka</b></sub>
     </td>
@@ -83,7 +87,7 @@ dinar_nato = {
       <br><sub><b>BigQuery</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/dbt-FE6703?style=flat-square&logoColor=white" alt="dbt"/>
+      <img src="https://img.shields.io/badge/dbt-0D9488?style=flat-square&logoColor=white" alt="dbt"/>
       <br><sub><b>dbt</b></sub>
     </td>
   </tr>
@@ -133,7 +137,7 @@ dinar_nato = {
       <br><sub><b>Grafana</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Scikit--Surprise-F7931E?style=flat-square&logoColor=white" alt="Scikit-Surprise"/>
+      <img src="https://img.shields.io/badge/Scikit--Surprise-14B8A6?style=flat-square&logoColor=white" alt="Scikit-Surprise"/>
       <br><sub><b>Scikit-Surprise</b></sub>
     </td>
     <td align="center" width="96">
@@ -256,9 +260,9 @@ focus_areas:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinar-nato-338a43328)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnaliaka365@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dinah-nato.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230F766E.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinar-nato-338a43328)
+[![Email](https://img.shields.io/badge/Email-%230D9488.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnaliaka365@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2314B8A6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://dinah-nato.vercel.app)
 
 </div>
 
@@ -268,10 +272,10 @@ focus_areas:
 
 > *"Debugging is like being a detective in a crime movie where you're also the murderer."*
 
-  <img src="https://komarev.com/ghpvc/?username=NATO-dotcom&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NATO-dotcom&label=Profile%20views&color=14B8A6&style=flat-square" alt="Profile Views" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F766E&height=100&section=footer" alt="Footer"/>
 </div>
